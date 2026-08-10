@@ -37,5 +37,20 @@ Thumbs.db
 /build/
 /bin/
 
-# Option B: Explicitly name root-level executables
-/my_program
+# Ignore all files inside subdirectories by default
+**/*
+
+# Allow Git to look inside subdirectories
+!**/
+
+# Whitelist your source code, files, and project documents
+!**/README.md
+!**/*.cpp
+!**/*.h
+!**/*.hpp
+!**/*.txt
+
+# Make sure git keeps tracking your main config files
+!.gitignore
+!Makefile
+!CMakeLists.txt

@@ -1,5 +1,6 @@
 /*
 
+Problem number 349
 Problem Link = https://leetcode.com/problems/intersection-of-two-arrays/description/
 
 Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
@@ -32,9 +33,9 @@ Constraints:
 #include <unordered_map>
 using namespace std;
 
-// Adding a struct to act as a default value for the unordered_map
+// Adding a struct to act as a default value for the unordered_map.
 // The unordered_map does not have a deafult value parameter and I have used structs because it is easy to implement where as the
-// classes are used for complex tasks, a struct would be a simple and better approach
+// classes are used for complex tasks, a struct would be a simple and better approach.
 struct default_value
 {
     int value = 0;
