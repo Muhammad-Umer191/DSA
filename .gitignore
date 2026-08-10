@@ -1,4 +1,4 @@
-# Build files
+# Build files and artifacts
 *.o
 *.obj
 *.out
@@ -6,8 +6,10 @@
 *.dll
 *.so
 *.dylib
+*.a
+*.dSYM/
 
-# CMake
+# CMake & Make
 CMakeFiles/
 CMakeCache.txt
 cmake-build-*/
@@ -19,18 +21,21 @@ compile_commands.json
 .idea/
 *.code-workspace
 
-# OS files
+# OS & Temporary files
 .DS_Store
 Thumbs.db
-
-# Temporary files
 *.tmp
 *.temp
 *.swp
 *.swo
 
-# Debug files
-*.dSYM/
-
 # Local environment files
 .env
+
+# Linux Extensionless Executables
+# Option A: Ignore the dedicated output directories (Recommended)
+/build/
+/bin/
+
+# Option B: Explicitly name root-level executables
+/my_program
