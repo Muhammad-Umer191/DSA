@@ -15,6 +15,6 @@ The goal is to build a strong foundation before moving on to more advanced data 
 
 ## Progress
 
-Problems Solved: **3**
+Problems Solved: **4**
 
 ---
