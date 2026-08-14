@@ -12,6 +12,8 @@ The goal is to build a strong foundation before moving on to more advanced data 
  - Binary Search
  - Sorting
  - Junior
+ - Mid Level
+ - Divide and Conquer
 
 ## Progress
 
