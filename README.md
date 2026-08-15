@@ -76,6 +76,7 @@ DSA-Journey/
 | Topic               |    Status   |
 | ------------------- | :---------: |
 | Arrays              | In Progress |
+| Linked Lists              | In Progress |
 
 
 ---
