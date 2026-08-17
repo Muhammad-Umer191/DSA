@@ -14,9 +14,12 @@ The goal is to build a strong foundation before moving on to more advanced data 
  - Junior
  - Mid Level
  - Divide and Conquer
+ - Staff
+ - Sliding Window
+ - String
 
 ## Progress
 
-Problems Solved: **4**
+Problems Solved: **5**
 
 ---
