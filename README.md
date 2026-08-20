@@ -77,7 +77,7 @@ DSA-Journey/
 | ------------------- | :---------: |
 | Arrays              | In Progress |
 | Linked Lists              | In Progress |
-
+| Strings              | In Progress |
 
 ---
 
