@@ -78,7 +78,7 @@ DSA-Journey/
 | Arrays              | In Progress |
 | Linked Lists              | In Progress |
 | Strings              | In Progress |
-
+| Maths              | In Progress |
 ---
 
 # What You'll Find in Each Topic
